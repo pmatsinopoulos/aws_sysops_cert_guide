@@ -7,6 +7,8 @@ description = "Examples while working with AWS SysOps Certification Guide Book"
 authors = [
     {name = "Panagiotis Matsinopoulos", email = "panagiotis@matsinopoulos.gr"},
 ]
-dependencies = []
+dependencies = [
+    "boto3>=1.26.84",
+]
 requires-python = ">=3.11"
 license = {text = "MIT"}
