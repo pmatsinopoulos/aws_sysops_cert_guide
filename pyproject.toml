@@ -1,9 +1,9 @@
 [tool.pdm]
 
 [project]
-name = ""
-version = ""
-description = ""
+name = "aws_sysops_cert_study"
+version = "1.0.0"
+description = "Examples while working with AWS SysOps Certification Guide Book"
 authors = [
     {name = "Panagiotis Matsinopoulos", email = "panagiotis@matsinopoulos.gr"},
 ]
